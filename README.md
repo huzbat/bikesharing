@@ -11,17 +11,17 @@ By learning to accurately portray data we can determine how often the bikes are 
 
 ## Results
 
-### 1 Customer Profile
-
-![This is an image](Resources/Customer.png)
-
-### 2 Top Start Locations
+### 1 Top Start Locations
 
 ![This is an image](Resources/StartLocation.png)
 
-### 3 Top End Locations
+### 2 Top End Locations
 
 ![This is an image](Resources/EndLocation.png)
+
+### 3 Customer Profile
+
+![This is an image](Resources/Customer.png)
 
 ### 4 Checkout times
 
@@ -29,7 +29,7 @@ By learning to accurately portray data we can determine how often the bikes are 
 
 ### 5 Trips by weekday
 
-![This is an image](Resources/Weekday.png)
+![This is an image](Resources/Trips_Weekday.png)
 
 ## Summary
 
