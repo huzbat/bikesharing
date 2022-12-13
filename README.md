@@ -29,7 +29,7 @@ By learning to accurately portray data we can determine how often the bikes are 
 
 ### 5 Trips by weekday
 
-![This is an image](Resources/Trips_Weekday.png)
+![This is an image](Resources/Customer_trips.png)
 
 ## Summary
 
