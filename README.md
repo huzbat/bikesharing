@@ -1,5 +1,5 @@
 # bikesharing
-[link to dashboard](https://public.tableau.com/app/profile/huzaifa.hussain3074/viz/CitiBikeProject_16707205238250/Tripsbyweekday)
+[link to dashboard](https://public.tableau.com/app/profile/huzaifa.hussain3074)
 
 # Bikesharing
 
